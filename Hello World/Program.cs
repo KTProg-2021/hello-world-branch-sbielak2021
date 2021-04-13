@@ -9,6 +9,7 @@ namespace Hello_World
             Console.WriteLine("Hello, World!");
             Console.WriteLine("Welcome to GitHub");
             Console.WriteLine("My name is Sylvie");
+            Console.WriteLine("My favorite food is Bread");
         }
     }
 }
